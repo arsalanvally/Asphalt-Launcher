@@ -63,7 +63,7 @@ Antivirus software may flag:
 - Occasionally the source files (due to heuristic scanning)
 
 **Recommended Actions:**  
-1. **Most Secure:** Review and compile from [source code](#)
+1. **Most Secure:** Review and compile from source code
 2. **Alternative:** Add the project folder to antivirus exclusions
 3. **Temporary Solution:** Disable real-time protection during installation
 
