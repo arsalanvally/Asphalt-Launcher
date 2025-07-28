@@ -10,7 +10,7 @@ You're **free** to **modify** and **redistribute** this **without** any **restri
 
 ![](/assets/logo.png)
 
-> **This launcher is not intended to distribute priated Minecraft. **
+> **This launcher is not intended to distribute priated Minecraft.**
 > Please support Mojang by [purchasing Minecraft from the official website](https://www.minecraft.net/). Piracy is not encouraged or supported.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -54,6 +54,20 @@ You're **free** to **modify** and **redistribute** this **without** any **restri
 ## Installation & Build
 
 Detailed setup and compilation steps are available in [BUILD.md.](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/BUILD.md)
+
+## Antivirus and Source Code Warnings
+
+**Security Notice:**  
+Antivirus software may flag:
+- The unsigned `.exe` file (expected behavior for unsigned applications)
+- Occasionally the source files (due to heuristic scanning)
+
+**Recommended Actions:**  
+1. **Most Secure:** Review and compile from [source code](#)
+2. **Alternative:** Add the project folder to antivirus exclusions
+3. **Temporary Solution:** Disable real-time protection during installation
+
+**Note:** All code is publicly available for verification. Source flags are typically false positives from build scripts or uncommon compilation patterns.
 
 ## Frequently Asked Questions
 
