@@ -3,7 +3,7 @@
 **A Launcher for Minecraft**  
 An open-source and minimal Minecraft launcher built using Python  
 
-[GitHub](https://github.com/arsalanvally/Asphalt-Launcher) • [README](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/README.md) • [LICENSE](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/LICENSE) • [BUILD](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/BUILD.md)  
+[GitHub](https://github.com/arsalanvally/Asphalt-Launcher) • [README](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/README.md) • [LICENSE](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/LICENSE) • [BUILD](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/BUILD.md) • [FAQ](https://github.com/arsalanvally/Asphalt-Launcher/blob/main/FAQ.md)
 
 If you find this useful, **please consider giving credit** by linking to my GitHub page—it's not required, but it would be **greatly appreciated.**  
 You're **free** to **modify** and **redistribute** this **without** any **restrictions.**
